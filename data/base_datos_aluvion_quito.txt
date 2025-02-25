@@ -1,0 +1,30 @@
+base de datos | cantidad de articulos | fecha de publicacion
+ReliefWeb | 1 | Feb 2022
+FloodList | 1 | Feb 2022
+The Landslide Blog | 2 | 31 Jan 2022
+Wikipedia | 1 | 2022
+Al Jazeera | 1 | Feb 2022
+The Washington Post | 1 | Feb 2022
+Plan V | 1 | Feb 2022
+El Comercio | 1 | Feb 2022
+Quito Informa | 2 | Feb 2022
+El Universo | 3 | Feb 2022
+UEES - Universidad Espíritu Santo | 1 | Feb 2022
+Secretaría Nacional de Gestión de Riesgos | 1 | 31 Jan 2022
+The Independent | 1 | Feb 2022
+The Watchers | 1 | Feb 2022
+Los Angeles Times | 1 | Feb 2022
+Maxar | 1 | Feb 2022
+ReliefWeb | 1 | Feb 2024
+Weather Quito | 1 | Jan 2025
+Time and Date | 1 | s.f.
+Quito Weather | 1 | s.f.
+Climates to Travel | 1 | s.f.
+AccuWeather | 1 | s.f.
+Wikipedia | 1 | s.f.
+Columbus Travel | 1 | s.f.
+Weather Spark | 1 | s.f.
+Applied Sciences | 1 | s.f.
+Wikipedia | 1 | s.f.
+Wikipedia en español | 1 | s.f.
+teleSUR English | 1 | s.f.
