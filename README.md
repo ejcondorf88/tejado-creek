@@ -3,6 +3,7 @@ Análisis de Percepción Ciudadana sobre Aluviones en El Tejado y La Gasca
 
 ![Banner](https://via.placeholder.com/800x200.png?text=Aluviones+El+Tejado+y+La+Gasca)\
 *Análisis multidimensional de datos sociales y científicos sobre aluviones en Quito, Ecuador.*
+https://app.powerbi.com/reportEmbed?reportId=26b09999-35fa-46d2-809f-cd53e19ef5c4&autoAuth=true&ctid=8ca52e2b-1d20-4274-9a13-bd76eccb81d1
 
 Descripción
 -----------
@@ -209,19 +210,4 @@ Contribuciones
 5.  Envía un pull request con tus cambios.
 
 * * * * *
-
-Licencia
---------
-
-Este proyecto está licenciado bajo [MIT License](LICENSE).
-
-* * * * *
-
-Contacto
---------
-
-Para dudas o sugerencias, contacta a <tu-email@ejemplo.com>.
-
-* * * * *
-
-Solo copia este texto en un archivo con extensión .md (por ejemplo, README.md) y asegúrate de mantener los espacios y saltos de línea para que el formato Markdown se rend
+o en un archivo con extensión .md (por ejemplo, README.md) y asegúrate de mantener los espacios y saltos de línea para que el formato Markdown se rend
